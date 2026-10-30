@@ -10,7 +10,16 @@
     }
   ],
   "posts": [],
-  "reviews": [],
+  "reviews": [
+    {
+      "id": "8900f156425e4423b4323dad935c02cf",
+      "game": "goober",
+      "name": "Tester",
+      "text": "This is a real test of the review system, please ignore it.",
+      "date": "2026-10-30T23:52:29Z",
+      "by": "6692035c750452c1"
+    }
+  ],
   "rejected": [
     "1aaedf1e8f314c08ab2e21c736305d9b"
   ],
