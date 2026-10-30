@@ -11,7 +11,9 @@
   ],
   "posts": [],
   "reviews": [],
-  "rejected": [],
+  "rejected": [
+    "1aaedf1e8f314c08ab2e21c736305d9b"
+  ],
   "strikes": {},
   "blocked": [],
   "hidden": []
