@@ -1,18 +1,6 @@
 {
   "pictures": [],
-  "posts": [
-    {
-      "id": "71fd76b31a39469a97c4e793595877e4",
-      "title": "A real test post",
-      "text": "Testing the whole road, please ignore.",
-      "date": "2026-10-30T23:52:31Z",
-      "picture": "post-f81edf6eba664653bb667549e4cc619c.png",
-      "linkLabel": "Open",
-      "linkUrl": "https://example.com",
-      "game": "goober",
-      "pinned": true
-    }
-  ],
+  "posts": [],
   "reviews": [],
   "rejected": [
     "1aaedf1e8f314c08ab2e21c736305d9b",
