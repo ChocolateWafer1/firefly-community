@@ -1,14 +1,5 @@
 {
-  "pictures": [
-    {
-      "id": "13271050250147e4ad2935af3003d640",
-      "title": "A real test picture",
-      "file": "13271050250147e4ad2935af3003d640.png",
-      "width": 900,
-      "height": 506,
-      "added": "2026-10-30T23:52:26Z"
-    }
-  ],
+  "pictures": [],
   "posts": [
     {
       "id": "71fd76b31a39469a97c4e793595877e4",
@@ -24,7 +15,8 @@
   ],
   "reviews": [],
   "rejected": [
-    "1aaedf1e8f314c08ab2e21c736305d9b"
+    "1aaedf1e8f314c08ab2e21c736305d9b",
+    "13271050250147e4ad2935af3003d640"
   ],
   "strikes": {},
   "blocked": [],
