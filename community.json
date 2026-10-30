@@ -9,7 +9,19 @@
       "added": "2026-10-30T23:52:26Z"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "id": "71fd76b31a39469a97c4e793595877e4",
+      "title": "A real test post",
+      "text": "Testing the whole road, please ignore.",
+      "date": "2026-10-30T23:52:31Z",
+      "picture": "post-f81edf6eba664653bb667549e4cc619c.png",
+      "linkLabel": "Open",
+      "linkUrl": "https://example.com",
+      "game": "goober",
+      "pinned": true
+    }
+  ],
   "reviews": [
     {
       "id": "8900f156425e4423b4323dad935c02cf",
