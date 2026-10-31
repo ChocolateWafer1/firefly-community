@@ -1,14 +1,6 @@
 {
   "pictures": [
     {
-      "id": "718e0bc4d3b14bffa51ed311651f7743",
-      "title": "Wafer!",
-      "file": "718e0bc4d3b14bffa51ed311651f7743.png",
-      "width": 512,
-      "height": 512,
-      "added": "2026-10-31T01:17:38Z"
-    },
-    {
       "id": "8846cbc238104536b65d9c1b5311beaf",
       "title": "Halloween",
       "file": "8846cbc238104536b65d9c1b5311beaf.png",
@@ -31,7 +23,9 @@
     }
   ],
   "reviews": [],
-  "rejected": [],
+  "rejected": [
+    "718e0bc4d3b14bffa51ed311651f7743"
+  ],
   "strikes": {},
   "blocked": [],
   "hidden": []
