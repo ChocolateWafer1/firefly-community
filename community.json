@@ -1,14 +1,5 @@
 {
-  "pictures": [
-    {
-      "id": "8846cbc238104536b65d9c1b5311beaf",
-      "title": "Halloween",
-      "file": "8846cbc238104536b65d9c1b5311beaf.png",
-      "width": 1028,
-      "height": 312,
-      "added": "2026-10-31T01:16:44Z"
-    }
-  ],
+  "pictures": [],
   "posts": [
     {
       "id": "8b0d7e4b58534342a172147870b74af6",
@@ -24,7 +15,8 @@
   ],
   "reviews": [],
   "rejected": [
-    "718e0bc4d3b14bffa51ed311651f7743"
+    "718e0bc4d3b14bffa51ed311651f7743",
+    "8846cbc238104536b65d9c1b5311beaf"
   ],
   "strikes": {},
   "blocked": [],
