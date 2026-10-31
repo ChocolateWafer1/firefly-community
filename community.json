@@ -5,5 +5,7 @@
   "rejected": [],
   "strikes": {},
   "blocked": [],
-  "hidden": []
+  "hidden": [
+    "goober"
+  ]
 }
