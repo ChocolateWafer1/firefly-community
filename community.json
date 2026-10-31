@@ -17,7 +17,19 @@
       "added": "2026-10-31T01:16:44Z"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "id": "8b0d7e4b58534342a172147870b74af6",
+      "title": "Two new games: Seedling and Rock to Riches",
+      "text": "Two new games have joined the Firefly Launcher!\n\nSeedling is a little garden that grows in real time. Plant strawberries, radishes and cherry trees from single seeds, and look after them through real seasons, weather and garden chores.\n\nRock to Riches is a factory game about turning plain rocks into a fortune. Drop rocks on a belt, run them through machines to raise their value, sell them, and spend the money on bigger and better things.\n\nBoth are in your game list now, ready to install. Have fun!",
+      "date": "2026-10-31T01:23:47Z",
+      "picture": null,
+      "linkLabel": null,
+      "linkUrl": null,
+      "game": "rocktoriches",
+      "pinned": false
+    }
+  ],
   "reviews": [],
   "rejected": [],
   "strikes": {},
