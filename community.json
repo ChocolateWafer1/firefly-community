@@ -1,5 +1,14 @@
 {
-  "pictures": [],
+  "pictures": [
+    {
+      "id": "8846cbc238104536b65d9c1b5311beaf",
+      "title": "Halloween",
+      "file": "8846cbc238104536b65d9c1b5311beaf.png",
+      "width": 1028,
+      "height": 312,
+      "added": "2026-10-31T01:16:44Z"
+    }
+  ],
   "posts": [
     {
       "id": "f759e01435f54ffdb5156b75427ec9cd",
