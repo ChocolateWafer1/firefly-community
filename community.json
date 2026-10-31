@@ -17,19 +17,7 @@
       "added": "2026-10-31T01:16:44Z"
     }
   ],
-  "posts": [
-    {
-      "id": "f759e01435f54ffdb5156b75427ec9cd",
-      "title": "Welcome",
-      "text": "yoyoy",
-      "date": "2026-10-31T00:48:48Z",
-      "picture": null,
-      "linkLabel": null,
-      "linkUrl": null,
-      "game": null,
-      "pinned": false
-    }
-  ],
+  "posts": [],
   "reviews": [],
   "rejected": [],
   "strikes": {},
